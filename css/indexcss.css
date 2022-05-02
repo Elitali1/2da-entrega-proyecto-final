@@ -47,27 +47,27 @@ p{
 .container-fluid1{
     background-color: black;
     height: auto;
-    color: blue;
-    font-size: 90px;
+    color: red;
+    font-size: 40px;
     text-align: center;
     padding-top: 30px;
 }
 .facebook{
-    font-size: 20px;
-    color: blue;
+    font-size: 10px;
+    color: red;
 }
 .whatsapp{
-    font-size: 20px;
-    color: blue;
+    font-size: 10px;
+    color: red;
     
 }
 .instagram{
-    font-size: 20px;
-    color: blue;
+    font-size: 10px;
+    color: red;
     
 }
 .youtube{
-    font-size: 20px;
-    color: blue;
+    font-size: 10px;
+    color: red;
     
 }
