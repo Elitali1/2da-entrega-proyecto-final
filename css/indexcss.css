@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    color: red;
+    animation-duration: 2s;
+    animation-name: aparecer;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+@keyframes aparecer{
+  0% {  
+      opacity: 0;
+    }
+  100% { 
+      opacity: 1;
+    }
+}
+.carousel-indicators li{
+    width: 30x;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+}
+.carousel-control-prev-icon{
+    background-color: red;
+}
+.carousel-control-next-icon{
+    background-color: red;
+}
+.slide img {
+    height: 400px;
+    width: 100%;
+}
+.container-fluid{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.container-fluid1{
+    background-color: black;
+    height: auto;
+    color: blue;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 30px;
+}
+.facebook{
+    font-size: 20px;
+    color: blue;
+}
+.whatsapp{
+    font-size: 20px;
+    color: blue;
+    
+}
+.instagram{
+    font-size: 20px;
+    color: blue;
+    
+}
+.youtube{
+    font-size: 20px;
+    color: blue;
+    
+}
